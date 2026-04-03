@@ -1,0 +1,60 @@
+{
+  "card_title": "1991 barry bonds",
+  "source_csv": "/Users/robert.mcroy/dev/projects/python/card_shop/data/csv_dumps/comps/baseball/baseball_1991_stadium_club_charter_members_barry_bonds_normalized.csv",
+  "lanes": [
+    {
+      "lane_label": "eBay Raw",
+      "grader": "",
+      "grade_value": null,
+      "valuation_range": "$2-$2-$2",
+      "valuation_note": "eBay Raw | raw only | Model B - Star / High Liquidity | 20 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-7",
+        "comp-25",
+        "comp-31",
+        "comp-44",
+        "comp-49"
+      ],
+      "outlier_low_rows": [
+        "comp-6",
+        "comp-12",
+        "comp-16"
+      ],
+      "comp_count": 20
+    },
+    {
+      "lane_label": "eBay BGS 9.5",
+      "grader": "BGS",
+      "grade_value": 9.5,
+      "valuation_range": "$59-$29-$29",
+      "valuation_note": "eBay BGS 9.5 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay PSA 9",
+      "grader": "PSA",
+      "grade_value": 9.0,
+      "valuation_range": "$22-$11-$11",
+      "valuation_note": "eBay PSA 9 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay PSA 10",
+      "grader": "PSA",
+      "grade_value": 10.0,
+      "valuation_range": "$86-$77-$77",
+      "valuation_note": "eBay PSA 10 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    }
+  ]
+}

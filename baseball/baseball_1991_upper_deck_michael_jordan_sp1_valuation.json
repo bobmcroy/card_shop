@@ -1,0 +1,230 @@
+{
+  "card_title": "1991 upper deck michael jordan sp1",
+  "subtitle": "Michael Jordan | #SP1 | valuation report",
+  "lanes": [
+    {
+      "lane_label": "eBay Raw",
+      "valuation_range": "$25-$112-$112",
+      "valuation_note": "eBay Raw | Model B - Star / High Liquidity | 321 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 321,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 10",
+      "valuation_range": "$981-$1072-$1072",
+      "valuation_note": "eBay PSA 10 | Model B - Star / High Liquidity | 10 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 10,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 9",
+      "valuation_range": "$103-$106-$106",
+      "valuation_note": "eBay PSA 9 | Model B - Star / High Liquidity | 65 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 65,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 8.5",
+      "valuation_range": "$70-$63-$63",
+      "valuation_note": "eBay PSA 8.5 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 8",
+      "valuation_range": "$42-$47-$47",
+      "valuation_note": "eBay PSA 8 | Model B - Star / High Liquidity | 53 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 53,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 7",
+      "valuation_range": "$34-$36-$36",
+      "valuation_note": "eBay PSA 7 | Model B - Star / High Liquidity | 10 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 10,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 6",
+      "valuation_range": "$26-$29-$29",
+      "valuation_note": "eBay PSA 6 | Model B - Star / High Liquidity | 17 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 17,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 5",
+      "valuation_range": "$34-$31-$31",
+      "valuation_note": "eBay PSA 5 | Model B - Star / High Liquidity | 6 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 6,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 4",
+      "valuation_range": "$34-$35-$35",
+      "valuation_note": "eBay PSA 4 | Model B - Star / High Liquidity | 6 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 6,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA",
+      "valuation_range": "$5213-$4691-$4691",
+      "valuation_note": "eBay PSA | Model B - Star / High Liquidity | 2 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 2,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay BGS 9",
+      "valuation_range": "$78-$70-$70",
+      "valuation_note": "eBay BGS 9 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay BGS 9.5",
+      "valuation_range": "$293-$264-$264",
+      "valuation_note": "eBay BGS 9.5 | Model B - Star / High Liquidity | 5 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 5,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay BGS 8.5",
+      "valuation_range": "$48-$43-$43",
+      "valuation_note": "eBay BGS 8.5 | Model B - Star / High Liquidity | 3 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 3,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay BGS 8",
+      "valuation_range": "$54-$49-$49",
+      "valuation_note": "eBay BGS 8 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay BGS 7.5",
+      "valuation_range": "$24-$12-$12",
+      "valuation_note": "eBay BGS 7.5 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay SGC 10",
+      "valuation_range": "$648-$324-$324",
+      "valuation_note": "eBay SGC 10 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay SGC 9",
+      "valuation_range": "$78-$81-$81",
+      "valuation_note": "eBay SGC 9 | Model B - Star / High Liquidity | 3 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 3,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay SGC 9.5",
+      "valuation_range": "$141-$141-$141",
+      "valuation_note": "eBay SGC 9.5 | Model B - Star / High Liquidity | 3 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 3,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay SGC 8.5",
+      "valuation_range": "$45-$43-$43",
+      "valuation_note": "eBay SGC 8.5 | Model B - Star / High Liquidity | 5 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 5,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay SGC 8",
+      "valuation_range": "$35-$32-$32",
+      "valuation_note": "eBay SGC 8 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay CGC 9",
+      "valuation_range": "$60-$54-$54",
+      "valuation_note": "eBay CGC 9 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay CGC 8",
+      "valuation_range": "$36-$33-$33",
+      "valuation_note": "eBay CGC 8 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay CGC 7.5",
+      "valuation_range": "$28-$14-$14",
+      "valuation_note": "eBay CGC 7.5 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay TAG 8.5",
+      "valuation_range": "$61-$54-$54",
+      "valuation_note": "eBay TAG 8.5 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay CSG 9",
+      "valuation_range": "$65-$58-$58",
+      "valuation_note": "eBay CSG 9 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay Graded 10",
+      "valuation_range": "$100-$102-$102",
+      "valuation_note": "eBay Graded 10 | Model B - Star / High Liquidity | 11 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 11,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay Graded 9",
+      "valuation_range": "$65-$58-$58",
+      "valuation_note": "eBay Graded 9 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay Graded 9.5",
+      "valuation_range": "$208-$187-$187",
+      "valuation_note": "eBay Graded 9.5 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    }
+  ]
+}

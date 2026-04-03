@@ -1,0 +1,81 @@
+{
+  "card_title": "1991 STADIUM CLUB BASEBALL MARK MCGWIRE #399",
+  "source_csv": "/Users/robert.mcroy/dev/projects/python/card_shop/data/csv_dumps/comps/baseball/baseball_1991_stadium_club_mark_mcgwire_399_normalized.csv",
+  "lanes": [
+    {
+      "lane_label": "eBay Raw",
+      "grader": "",
+      "grade_value": null,
+      "valuation_range": "$2-$2-$2",
+      "valuation_note": "eBay Raw | raw only | 8 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-10"
+      ],
+      "outlier_low_rows": [
+        "comp-16"
+      ],
+      "comp_count": 8
+    },
+    {
+      "lane_label": "eBay BGS 9",
+      "grader": "BGS",
+      "grade_value": 9.0,
+      "valuation_range": "$36-$33-$33",
+      "valuation_note": "eBay BGS 9 | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-8"
+      ],
+      "outlier_low_rows": [
+        "comp-8"
+      ],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay PSA 9",
+      "grader": "PSA",
+      "grade_value": 9.0,
+      "valuation_range": "$24-$21-$21",
+      "valuation_note": "eBay PSA 9 | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-21"
+      ],
+      "outlier_low_rows": [
+        "comp-21"
+      ],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay PSA 10",
+      "grader": "PSA",
+      "grade_value": 10.0,
+      "valuation_range": "$38-$27-$27",
+      "valuation_note": "eBay PSA 10 | 2 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-19"
+      ],
+      "outlier_low_rows": [
+        "comp-24"
+      ],
+      "comp_count": 2
+    },
+    {
+      "lane_label": "eBay SGC 8.5",
+      "grader": "SGC",
+      "grade_value": 8.5,
+      "valuation_range": "$13-$11-$11",
+      "valuation_note": "eBay SGC 8.5 | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-11"
+      ],
+      "outlier_low_rows": [
+        "comp-11"
+      ],
+      "comp_count": 1
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "card_title": "1993 derek jeter 457",
+  "source_csv": "/Users/robert.mcroy/dev/projects/python/card_shop/data/csv_dumps/comps/baseball/baseball_1993_pinnacle_derek_jeter_457_normalized.csv",
+  "lanes": [
+    {
+      "lane_label": "eBay Raw",
+      "grader": "",
+      "grade_value": null,
+      "valuation_range": "$12-$72-$72",
+      "valuation_note": "eBay Raw | raw only | Model B - Star / High Liquidity | 200 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-3",
+        "comp-4",
+        "comp-7",
+        "comp-20",
+        "comp-22",
+        "comp-25",
+        "comp-30",
+        "comp-33",
+        "comp-36",
+        "comp-37",
+        "comp-40",
+        "comp-52",
+        "comp-53",
+        "comp-56",
+        "comp-58",
+        "comp-59",
+        "comp-62",
+        "comp-65",
+        "comp-70",
+        "comp-71",
+        "comp-81",
+        "comp-89",
+        "comp-95",
+        "comp-106",
+        "comp-112",
+        "comp-120",
+        "comp-124",
+        "comp-130",
+        "comp-133",
+        "comp-136",
+        "comp-151",
+        "comp-152",
+        "comp-163",
+        "comp-166",
+        "comp-169",
+        "comp-170",
+        "comp-173",
+        "comp-175",
+        "comp-178",
+        "comp-186",
+        "comp-188",
+        "comp-189",
+        "comp-190",
+        "comp-191",
+        "comp-192",
+        "comp-196",
+        "comp-199",
+        "comp-200",
+        "comp-204",
+        "comp-205",
+        "comp-229",
+        "comp-250",
+        "comp-256",
+        "comp-266",
+        "comp-267",
+        "comp-271",
+        "comp-273",
+        "comp-290",
+        "comp-294",
+        "comp-301",
+        "comp-307",
+        "comp-314",
+        "comp-315",
+        "comp-320",
+        "comp-328"
+      ],
+      "outlier_low_rows": [
+        "comp-5",
+        "comp-21",
+        "comp-57",
+        "comp-63",
+        "comp-68",
+        "comp-90",
+        "comp-92",
+        "comp-111",
+        "comp-113",
+        "comp-116",
+        "comp-122",
+        "comp-123",
+        "comp-135",
+        "comp-137",
+        "comp-139",
+        "comp-140",
+        "comp-149",
+        "comp-161",
+        "comp-162",
+        "comp-164",
+        "comp-172",
+        "comp-181",
+        "comp-184",
+        "comp-185",
+        "comp-213",
+        "comp-217",
+        "comp-218",
+        "comp-220",
+        "comp-225",
+        "comp-234",
+        "comp-235",
+        "comp-239",
+        "comp-244",
+        "comp-275",
+        "comp-286",
+        "comp-287",
+        "comp-298",
+        "comp-299",
+        "comp-300",
+        "comp-306",
+        "comp-310",
+        "comp-317",
+        "comp-318",
+        "comp-331"
+      ],
+      "comp_count": 200
+    },
+    {
+      "lane_label": "eBay BGS 8",
+      "grader": "BGS",
+      "grade_value": 8.0,
+      "valuation_range": "$23-$22-$22",
+      "valuation_note": "eBay BGS 8 | Model B - Star / High Liquidity | 3 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 3
+    },
+    {
+      "lane_label": "eBay BGS 8.5",
+      "grader": "BGS",
+      "grade_value": 8.5,
+      "valuation_range": "$33-$39-$39",
+      "valuation_note": "eBay BGS 8.5 | Model B - Star / High Liquidity | 4 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-146"
+      ],
+      "outlier_low_rows": [
+        "comp-117"
+      ],
+      "comp_count": 4
+    },
+    {
+      "lane_label": "eBay BGS 9",
+      "grader": "BGS",
+      "grade_value": 9.0,
+      "valuation_range": "$55-$49-$49",
+      "valuation_note": "eBay BGS 9 | Model B - Star / High Liquidity | 4 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-249"
+      ],
+      "outlier_low_rows": [],
+      "comp_count": 4
+    },
+    {
+      "lane_label": "eBay BGS 9.5",
+      "grader": "BGS",
+      "grade_value": 9.5,
+      "valuation_range": "$275-$329-$329",
+      "valuation_note": "eBay BGS 9.5 | Model B - Star / High Liquidity | 5 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-29",
+        "comp-187"
+      ],
+      "outlier_low_rows": [
+        "comp-269"
+      ],
+      "comp_count": 5
+    },
+    {
+      "lane_label": "eBay CSG 8.5",
+      "grader": "CSG",
+      "grade_value": 8.5,
+      "valuation_range": "$25-$22-$22",
+      "valuation_note": "eBay CSG 8.5 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay PSA 5",
+      "grader": "PSA",
+      "grade_value": 5.0,
+      "valuation_range": "$16-$14-$14",
+      "valuation_note": "eBay PSA 5 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay PSA 6",
+      "grader": "PSA",
+      "grade_value": 6.0,
+      "valuation_range": "$17-$15-$15",
+      "valuation_note": "eBay PSA 6 | Model B - Star / High Liquidity | 2 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 2
+    },
+    {
+      "lane_label": "eBay PSA 7",
+      "grader": "PSA",
+      "grade_value": 7.0,
+      "valuation_range": "$21-$23-$23",
+      "valuation_note": "eBay PSA 7 | Model B - Star / High Liquidity | 5 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-158",
+        "comp-323"
+      ],
+      "outlier_low_rows": [
+        "comp-2",
+        "comp-284"
+      ],
+      "comp_count": 5
+    },
+    {
+      "lane_label": "eBay PSA 8",
+      "grader": "PSA",
+      "grade_value": 8.0,
+      "valuation_range": "$32-$33-$33",
+      "valuation_note": "eBay PSA 8 | Model B - Star / High Liquidity | 23 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [
+        "comp-16",
+        "comp-98",
+        "comp-150",
+        "comp-308"
+      ],
+      "comp_count": 23
+    },
+    {
+      "lane_label": "eBay PSA 8.5",
+      "grader": "PSA",
+      "grade_value": 8.5,
+      "valuation_range": "$40-$36-$36",
+      "valuation_note": "eBay PSA 8.5 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay PSA 9",
+      "grader": "PSA",
+      "grade_value": 9.0,
+      "valuation_range": "$62-$64-$64",
+      "valuation_note": "eBay PSA 9 | Model B - Star / High Liquidity | 38 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-11",
+        "comp-138",
+        "comp-171",
+        "comp-312",
+        "comp-319"
+      ],
+      "outlier_low_rows": [
+        "comp-61"
+      ],
+      "comp_count": 38
+    },
+    {
+      "lane_label": "eBay PSA 10",
+      "grader": "PSA",
+      "grade_value": 10.0,
+      "valuation_range": "$650-$733-$733",
+      "valuation_note": "eBay PSA 10 | Model B - Star / High Liquidity | 11 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-27",
+        "comp-276"
+      ],
+      "outlier_low_rows": [],
+      "comp_count": 11
+    },
+    {
+      "lane_label": "eBay SGC 6",
+      "grader": "SGC",
+      "grade_value": 6.0,
+      "valuation_range": "$27-$14-$14",
+      "valuation_note": "eBay SGC 6 | Model B - Star / High Liquidity | 2 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-64"
+      ],
+      "outlier_low_rows": [
+        "comp-157"
+      ],
+      "comp_count": 2
+    },
+    {
+      "lane_label": "eBay SGC 8",
+      "grader": "SGC",
+      "grade_value": 8.0,
+      "valuation_range": "$32-$28-$28",
+      "valuation_note": "eBay SGC 8 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay SGC 8.5",
+      "grader": "SGC",
+      "grade_value": 8.5,
+      "valuation_range": "$22-$11-$11",
+      "valuation_note": "eBay SGC 8.5 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay SGC 9",
+      "grader": "SGC",
+      "grade_value": 9.0,
+      "valuation_range": "$37-$44-$44",
+      "valuation_note": "eBay SGC 9 | Model B - Star / High Liquidity | 6 comps",
+      "seller_max_value": null,
+      "outlier_high_rows": [
+        "comp-50"
+      ],
+      "outlier_low_rows": [
+        "comp-168"
+      ],
+      "comp_count": 6
+    },
+    {
+      "lane_label": "eBay SGC 9.5",
+      "grader": "SGC",
+      "grade_value": 9.5,
+      "valuation_range": "$127-$63-$63",
+      "valuation_note": "eBay SGC 9.5 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    },
+    {
+      "lane_label": "eBay SGC 10",
+      "grader": "SGC",
+      "grade_value": 10.0,
+      "valuation_range": "$312-$156-$156",
+      "valuation_note": "eBay SGC 10 | Model B - Star / High Liquidity | 1 comp",
+      "seller_max_value": null,
+      "outlier_high_rows": [],
+      "outlier_low_rows": [],
+      "comp_count": 1
+    }
+  ]
+}

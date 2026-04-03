@@ -1,0 +1,46 @@
+{
+  "card_title": "1991 stadium club charter member nolan ryan 300th career win",
+  "subtitle": "nolan ryan | valuation report",
+  "lanes": [
+    {
+      "lane_label": "eBay Raw",
+      "valuation_range": "$4-$7-$7",
+      "valuation_note": "eBay Raw | Model B - Star / High Liquidity | 43 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 43,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 9",
+      "valuation_range": "$45-$40-$40",
+      "valuation_note": "eBay PSA 9 | Model B - Star / High Liquidity | 2 comps",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 2,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 8",
+      "valuation_range": "$11-$6-$6",
+      "valuation_note": "eBay PSA 8 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay PSA 6",
+      "valuation_range": "$10-$5-$5",
+      "valuation_note": "eBay PSA 6 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    },
+    {
+      "lane_label": "eBay SGC 8.5",
+      "valuation_range": "$30-$27-$27",
+      "valuation_note": "eBay SGC 8.5 | Model B - Star / High Liquidity | 1 comp",
+      "model_name": "Model B - Star / High Liquidity",
+      "comp_count": 1,
+      "seller_max": ""
+    }
+  ]
+}
