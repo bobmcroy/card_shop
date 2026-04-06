@@ -1,0 +1,113 @@
+{
+  "sets": {
+    "Baseball": {
+      "1990": [],
+      "1991": [
+        { "name": "Donruss", "url": "https://www.psacard.com/pop/baseball-cards/1991/donruss/35546" },
+        { "name": "Fleer", "url": "https://www.psacard.com/pop/baseball-cards/1991/fleer/36730" },
+        { "name": "Stadium Club", "url": "https://www.psacard.com/pop/baseball-cards/1991/stadium-club/46514" },
+        { "name": "Stadium Club Charter Member", "url": "https://www.psacard.com/pop/baseball-cards/1991/stadium-club-charter-members/46614" },
+        { "name": "Stadium Club Members Only", "url": "https://www.psacard.com/pop/baseball-cards/1991/stadium-club-members-only/46728" },
+        { "name": "Topps", "url": "https://www.psacard.com/pop/baseball-cards/1991/topps/49716" },
+        { "name": "Ultra", "url": "https://www.psacard.com/pop/baseball-cards/1991/ultra/51729" },
+        { "name": "Upper Deck", "url": "https://www.psacard.com/pop/baseball-cards/1991/upper-deck/52285" }
+      ],
+      "1992": [
+       { "name": "Stadium Club", "url": "https://www.psacard.com/pop/basketball-cards/1992/stadium-club/46545" }
+      ],
+      "1993": [
+       { "name": "Donruss", "url": "https://www.psacard.com/pop/baseball-cards/1993/donruss/35553" },
+       { "name": "Pinnacle", "url": "https://www.psacard.com/pop/baseball-cards/1993/pinnacle/43455" }
+      ],
+      "1994": [],
+      "1995": [],
+      "1996": [
+        { "name": "Pinnacle Zenith", "url": "https://www.psacard.com/pop/baseball-cards/1996/zenith/54297" }
+      ],
+      "1997": [],
+      "1998": []
+    },
+    "Football": {
+      "1990": [],
+      "1991": [
+        { "name": "Action Packed", "url": "https://www.psacard.com/pop/football-cards/1991/action-packed/33110" },
+        { "name": "Action Packed 24KT Gold", "url": "https://www.psacard.com/pop/football-cards/1991/action-packed-24kt-gold/33130" },
+        { "name": "Fleer", "url": "https://www.psacard.com/pop/football-cards/1991/fleer/36740" },
+        { "name": "Pinnacle", "url": "https://www.psacard.com/pop/football-cards/1991/pinnacle/43442" },
+        { "name": "Pro Line Portraits", "url": "https://www.psacard.com/pop/football-cards/1991/proline-portraits/44214" },
+        { "name": "Pro Line Portraits Wives", "url": "https://www.psacard.com/pop/football-cards/1991/proline-portraits-wives/63988" },
+        { "name": "Stadium Club", "url": "https://www.psacard.com/pop/football-cards/1991/stadium-club/46529" },
+        { "name": "Stadium Club Charter Member", "url": "https://www.psacard.com/pop/football-cards/1991/stadium-club-charter-member/46612" },
+        { "name": "Stadium Club Members Only", "url": "https://www.psacard.com/pop/football-cards/1991/stadium-club-members-only/46733" },
+        { "name": "Ultra", "url": "https://www.psacard.com/pop/football-cards/1991/ultra/51739" },
+        { "name": "Upper Deck", "url": "https://www.psacard.com/pop/football-cards/1991/upper-deck/52305" }
+      ],
+      "1992": [
+        { "name": "Action Packed", "url": "https://www.psacard.com/pop/football-cards/1992/action-packed/33116" },
+        { "name": "Action Packed 24KT Gold", "url": "https://www.psacard.com/pop/football-cards/1992/action-packed-24kt-gold/33135" }
+      ],
+      "1993": [],
+      "1994": [],
+      "1995": [],
+      "1996": [],
+      "1997": [],
+      "1998": []
+    },
+    "Basketball": {
+      "1990": [],
+      "1991": [
+        { "name": "Classic", "url": "https://www.psacard.com/pop/basketball-cards/1991/classic/34744" },
+        { "name": "Classic 4 Sport", "url": "https://www.psacard.com/pop/multi-sport-cards/1991/classic-4-sport/34767" },
+        { "name": "Classic 4 Sport Limited", "url": "https://www.psacard.com/pop/multi-sport-cards/1991/classic-4-sport-limited-print/59326" },
+        { "name": "Fleer", "url": "https://www.psacard.com/pop/basketball-cards/1991/fleer/36778" },
+        { "name": "Hoops", "url": "https://www.psacard.com/pop/basketball-cards/1991/hoops/40294" },
+        { "name": "SkyBox", "url": "https://www.psacard.com/pop/basketball-cards/1991/skybox/45429" },
+        { "name": "Ultra", "url": "https://www.psacard.com/pop/basketball-cards/1991/ultra/45429" },
+        { "name": "Upper Deck", "url": "https://www.psacard.com/pop/basketball-cards/1991/upper-deck/52321" }
+      ],
+      "1992": [
+        { "name": "Classic", "url": "https://www.psacard.com/pop/basketball-cards/1992/classic/34744" },
+        { "name": "Classic 4 Sport", "url": "https://www.psacard.com/pop/multi-sport-cards/1992/classic-4-sport/34770" },
+        { "name": "Classic Four Sport", "url": "https://www.psacard.com/pop/multi-sport-cards/1992/classic-four-sport/190343" },
+        { "name": "Classic 4 Sport Limited", "url": "https://www.psacard.com/pop/multi-sport-cards/1992/classic-4-sport-limited-print/59327" },
+        { "name": "Fleer", "url": "https://www.psacard.com/pop/basketball-cards/1992/fleer/36778" },
+        { "name": "Hoops", "url": "https://www.psacard.com/pop/basketball-cards/1992/hoops/40294" },
+        { "name": "SkyBox", "url": "https://www.psacard.com/pop/basketball-cards/1992/skybox/45429" },
+        { "name": "Ultra", "url": "https://www.psacard.com/pop/basketball-cards/1992/ultra/51756" },
+        { "name": "Upper Deck", "url": "https://www.psacard.com/pop/basketball-cards/1992/upper-deck/52333" }
+    ],
+      "1993": [
+        { "name": "Stadium Club", "url": "https://www.psacard.com/pop/basketball-cards/1993/stadium-club/46542" },
+        { "name": "Stadium Club 1st Day Issue", "url": "https://www.psacard.com/pop/basketball-cards/1993/stadium-club-1st-day-issue/46564" },
+        { "name": "Stadium Club Beam Team", "url": "https://www.psacard.com/pop/basketball-cards/1993/stadium-club-beam-team/46592" },
+        { "name": "Ultra", "url": "https://www.psacard.com/pop/basketball-cards/1993/ultra/51766" }
+      ],
+      "1994": [],
+      "1995": [],
+      "1996": [
+        { "name": "Stadium Club", "url": "https://www.psacard.com/pop/basketball-cards/1996/stadium-club/46543" },
+        { "name": "Stadium Club Golden Moments", "url": "https://www.psacard.com/pop/basketball-cards/1996/stadium-club-golden-moments/46688" },
+        { "name": "Stadium Club Rookies 1", "url": "https://www.psacard.com/pop/basketball-cards/1996/21106#:~:text=Stadium%20Club%20Rookies%201" },
+        { "name": "Stadium Club Rookies 2", "url": "https://www.psacard.com/pop/basketball-cards/1996/stadium-club-rookies-2/46839" },
+        { "name": "Stadium Club Shining Moments", "url": "https://www.psacard.com/pop/basketball-cards/1996/stadium-club-shining-moments/46844" },
+        { "name": "Stadium Club Top Crop", "url": "https://www.psacard.com/pop/basketball-cards/1996/stadium-club-top-crop/46878" }
+      ],
+      "1997": [],
+      "1998": []
+    },
+    "Hockey": {
+      "1990": [],
+      "1991": [
+        { "name": "Stadium Club", "url": "https://www.psacard.com/pop/hockey-cards/1991/stadium-club/46849" },
+        { "name": "Stadium Club Members Only", "url": "https://www.psacard.com/pop/hockey-cards/1991/stadium-club-members-only/46739" }
+      ],
+      "1992": [],
+      "1993": [],
+      "1994": [],
+      "1995": [],
+      "1996": [],
+      "1997": [],
+      "1998": []
+    }
+  }
+}
